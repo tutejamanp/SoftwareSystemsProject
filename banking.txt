@@ -1,0 +1,6 @@
+CustomerID:1111Password:1234AccountNumber:1441AccountType:1
+CustomerID:1231Password:1111AccountNumber:1345AccountType:3
+CustomerID:1342Password:1111AccountNumber:1345AccountType:3
+CustomerID:7667Password:1234AccountNumber:9878AccountType:3
+CustomerID:3333Password:1234AccountNumber:9878AccountType:3
+CustomerID:2222Password:2222AccountNumber:5555AccountType:1
